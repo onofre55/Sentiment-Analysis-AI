@@ -1,4 +1,4 @@
-# AI – Sentiment Analysis with NLTK
+# Sentiment Analysis - AI Introduction
 This is a beginner sentiment analysis project using Python and NLTK. It classifies Amazon product reviews as positive (1) or not (0) using the VADER sentiment analyzer, a pre-trained Natural Language Processing model. Based on a [DataCamp](https://www.datacamp.com/tutorial/text-analytics-beginners-nltk?utm_source=chatgpt.com) tutorial, this project helped me understand the basics of text mining and Natural Language Processing.
 
 # What I learned
